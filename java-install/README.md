@@ -2,11 +2,14 @@
 
 ###
 JDK = JRE + development tools(java javac).
+
 JRE = JVM + core basement + other files.
 
 ### 
 java SE
+
 java EE
+
 java ME
 
 ###
